@@ -8,7 +8,7 @@ const AuthLayout = () => {
   return (
       <Fragment>
       <header>
-        <hi>SUPERMENTORA HEADER</hi>
+        <h1>SUPERMENTORA HEADER</h1>
         <LinksAuth />
       </header>
         <main className="">
